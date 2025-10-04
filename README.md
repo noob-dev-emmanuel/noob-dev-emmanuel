@@ -8,7 +8,7 @@
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-noobdev.codes@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:noobdev.codes@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Adun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noobdev-emmanuel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Adun-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adun-67b2b4350)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ComingSoon-lightgrey?style=flat-square&logo=googlesitekit&logoColor=white)](#)  
 
 ---
