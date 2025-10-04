@@ -20,11 +20,9 @@
 
 ---
 
-## 🔹 Key Projects
-- **Portfolio Website** – A personal site to showcase my skills and projects 🌐  
+## 🔹 Key Projects 
 - **Quiz School App** – Web-based quiz application built with JavaScript 📝  
-- **Landing Page Templates** – Responsive web pages using HTML/CSS 🖥️  
-- **JavaScript Logic Projects** – Interactive small apps demonstrating coding logic ⚡  
+- **Frontendmentor projects** – Responsive web pages using HTML/CSS 🖥️  
 
 > Continuously building projects to improve my skills and grow as a developer.
 
