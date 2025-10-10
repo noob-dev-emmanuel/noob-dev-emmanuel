@@ -29,6 +29,6 @@
 ---
 
 ## 📊 GitHub Stats
-![NoobDev GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-dev-emmanuel&show_icons=true&theme=radical)
+![NoobDev GitHub stats](https://github-readme-stats.vercel.app/api?username=noobdev08l&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-dev-emmanuel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noobdev08&layout=compact&theme=radical)
